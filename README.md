@@ -21,14 +21,10 @@ Country Viewer — это современное React-приложение, в 
 - [REST Countries API](https://restcountries.com/)
 - CSS + адаптивная вёрстка
 
-## 🖥 Скриншоты
-
-> _(можно вставить изображения вашего интерфейса или карты)_
-
 ## 📦 Установка
 
 ```bash
-git clone https://github.com/твоя-ссылка-на-репозиторий.git
+git clone https://github.com/Muhammadziyoodilov/countries-info
 cd country-viewer
 npm install
 npm start
